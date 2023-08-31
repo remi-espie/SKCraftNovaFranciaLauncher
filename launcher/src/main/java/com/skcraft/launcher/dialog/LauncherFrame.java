@@ -113,7 +113,6 @@ public class LauncherFrame extends JFrame {
         container.add(refreshButton);
         container.add(updateCheck);
         container.add(selfUpdateButton);
-        System.out.println(optionsButton.getFont().getFontName());
         container.add(optionsButton);
         launchButton.setFont(new Font("Roboto Bold", Font.PLAIN, 16));
         container.add(launchButton);
