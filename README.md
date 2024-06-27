@@ -2,11 +2,11 @@ Nova Francia SKCraft Launcher
 ================
 This repository is a fork of [SKCraft/Launcher](https://github.com/SKCraft/Launcher) with a custom skin and a few other tweaks, like french localization and Roboto Font everywhere.
 
-**[Nova Francia](https://nova-francia.remi-espie.me)** is a Minecraft Semi-RP server with a custom modpack. The launcher is used to distribute the modpack easily to players.
+**[Nova Francia](https://nova-francia.espie.dev)** is a Minecraft Semi-RP server with a custom modpack. The launcher is used to distribute the modpack easily to players.
 
 Through 4 iterations, the modlist as well as the MC version evolved. This launcher helps players keep up to date with the latest version of the modpack, as well as the precedent iterations.
 
-Everything can be found on the [website](https://nova-francia.remi-espie.me) and its [archives](https://nova-francia.remi-espie.me/archives).
+Everything can be found on the [website](https://nova-francia.espie.dev) and its [archives](https://nova-francia.espie.dev/archives).
 
 SKCraft launcher's original readme is below.
 
